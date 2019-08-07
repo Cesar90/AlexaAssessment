@@ -1,0 +1,75 @@
+{
+  "en": {
+    "translation": {
+      "Welcome": {
+        "say": "Welcome to Rock Paper Scissors!"
+      },
+      "AskHowManyWins": {
+        "say": "How many times do I have to beat you in rock paper scissors to be the ultimate winner?"
+      },
+      "StartGame": {
+        "say": "All right, let's start."
+      },
+      "AskUserChoice": {
+        "say": "I made my choice already, what's your choice? rock, paper or scissors?",
+        "reprompt": "what's your choice? rock, paper or scissors?"
+      },
+      "TiedResult": {
+        "say": "Oh! we tied on this one. Great minds think alike, they say. I'll beat you in the next round."
+      },
+      "UserWins": {
+        "say": "Oh, you won this point! You have {userWins} wins and I have {alexaWins} wins."
+      },
+      "AlexaWins": {
+        "say": "I won this point! You have {userWins} wins and I have {alexaWins} wins."
+      },
+      "UserWinsTheGame": {
+        "say": "You won the game! congratulations, it was a great match."
+      },
+      "AlexaWinsTheGame": {
+        "say": "I won the game!."
+      },
+      "AskIfStartANewGame": {
+        "say": "Should we play?",
+        "reprompt": "Should we play?"
+      },
+      "RestartGame": {
+        "say": "All right!"
+      },
+      "Bye": {
+        "say": "That's all right, until next time!"
+      },
+      "AskSayScoreIntent": {
+        "say": "You have {userWins} wins and I have {alexaWins} wins."
+      },
+      "Test": {
+        "say": "This is just test."
+      },
+      "thereisnotscore":{
+        "say": "Currently there is no score. "
+      },
+      "thereisscore":{
+        "say": "You have {userWins} wins and I have {alexaWins} wins."
+      },
+      "askIfContinueGame": {
+        "say": "Should we continue?",
+        "reprompt": "Should we continue?"
+      },
+      "ContinuePlaying": {
+        "say": "Ok."
+      },
+      "alexaIsWinnigWithOne": {
+        "say": "The score right now is: Alexa one, you zero. Are you sure you want to start a new game?"
+      },
+      "numberBiggerToPlay": {
+        "say": "{howManyTimesToWin} is a big number, are you sure you want to play until one of us wins {howManyTimesToWin} times?"
+      },
+      "help": {
+        "say": "This is the classic rock paper scissors. You have following options set amount of beat by saying, set rock paper scissors by saying, start a new game by saying, check the score by saying"
+      },
+      "fallback": {
+        "say": "I'm sorry, I didn't understand what you said. You have following options set amount of beat by saying, set rock paper scissors by saying, start a new game by saying, check the score by saying"
+      }
+    }
+  }
+}
